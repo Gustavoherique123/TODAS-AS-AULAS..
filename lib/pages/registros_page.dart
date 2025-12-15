@@ -1,4 +1,4 @@
-import 'package:api_flutter/pages/cep_page.dart';
+import 'package:api_flatter/pages/cep_page.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 
