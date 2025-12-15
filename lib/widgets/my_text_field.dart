@@ -17,7 +17,7 @@ class _MyTextFieldState extends State<MyTextField> {
   DateTime? selectedDate;
   TextEditingController? _controller;
 
-  bool _obscurePassword = true;
+  final bool _obscurePassword = true;
   bool _isPasswordValid = true;
 
   @override
